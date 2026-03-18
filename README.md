@@ -49,7 +49,7 @@
 
 ### Публікація з результатами дослідження
 
-Каракай, Д., Гацко, В. (2 березня, 2026). У нас немає тепла, та чи є в нас добро? Аналіз зв’язку між поганими умовами життя та солідарністю киян. *Вокс Україна*. URL: https://voxukraine.org/u-nas-nema-tepla-ta-chy-ye-v-nas-dobro-analiz-zv-yazku-mizh-poganymy-umovamy-zhyttya-ta-solidarnistyu-kyyan
+Каракай, Д., Гацко, В. (2 березня, 2026). У нас немає тепла, та чи є в нас добро? Аналіз зв’язку між поганими умовами життя та солідарністю киян. *Вокс Україна*. URL: https://voxukraine.org/u-nas-nema-tepla-ta-chy-ye-v-nas-dobro-analiz-zv-yazku-mizh-poganymy-umovamy-zhyttya-ta-solidarnistyu-kyyan *(код в R для реплікації аналізу знаходиться в цьому репозиторії)*
 
 ## Дослідження 2: Забезпеченість комунальними послугами та зміна довіри і просоціальності серед киян
 
@@ -75,4 +75,4 @@
 Аналіз виконано у **R**. Основні пакети: `plm`, `ggstatsplot`, `ggplot2`, `ggcharts`, `patchwork`.
 
 ### Публікація з результатами дослідження
-Москотіна, Р., Ремпен, М. (17 березня, 2026). Світло повертається – а довіра? Чи не зникне тепло між нами? *Вокс Україна*. https://voxukraine.org/svitlo-povertayetsya-a-dovira-chy-ne-znykne-teplo-mizh-namy
+Москотіна, Р., Ремпен, М. (17 березня, 2026). Світло повертається – а довіра? Чи не зникне тепло між нами? *Вокс Україна*. https://voxukraine.org/svitlo-povertayetsya-a-dovira-chy-ne-znykne-teplo-mizh-namy *(код в R для реплікації основного аналізу знаходиться в цьому репозиторії)*
