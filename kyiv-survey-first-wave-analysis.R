@@ -6,7 +6,7 @@
 #   & direct path Deprivation -> DV
 #   Controls: SES (income), age, female
 #
-# 5 separate models:
+#   5 separate models:
 #   Model 1: DV = INTTRUST        (interpersonal trust, latent, 4 items)
 #   Model 2: DV = trust_president (observed indicator)
 #   Model 3: DV = trust_rada      (observed indicator)
